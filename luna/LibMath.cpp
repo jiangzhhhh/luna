@@ -1,6 +1,7 @@
 #include "LibMath.h"
 #include <random>
-#include <cmath>
+#define _USE_MATH_DEFINES
+#include <math.h>
 #include <cstdlib>
 
 namespace lib {
